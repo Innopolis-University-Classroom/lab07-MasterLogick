@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+//well, it already works with ints ad floats
 int main()
 {
     double bill;
